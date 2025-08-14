@@ -46,7 +46,7 @@ This dashboard addresses these gaps by providing **clear, data-driven insights**
 - **Power Query** for data cleaning.
 
 ## 📷 Dashboard Preview
-*(Insert dashboard screenshot here)*
+ ![image alt](https://github.com/suryavhi704/Heart-Disease-Analysis-Dashboard_PowerBI/blob/main/Screenshot%202025-08-14%20122457.png?raw=true)
 
 ## 📂 Repository Structure
 - `/data` – Raw Dataset
